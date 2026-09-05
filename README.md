@@ -5,7 +5,7 @@
 
 <!-- 🎬 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Python+Developer;Machine+Learning+Enthusiast;Data+Science+Learner;ServiceNow+Developer;Problem+Solver;Building+AI-Powered+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Python+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;ServiceNow+Developer;Problem+Solver;Building+AI-Powered+Solutions" />
 </p>
 
 ---
@@ -17,25 +17,26 @@
 </h4>
 
 <h4 align="center">
-🚀 Building intelligent applications and exploring AI-powered real-world solutions
+🚀 Passionate about building intelligent solutions and continuously learning new technologies
 </h4>
 
 ---
 
 ## 🧠 About Me
 
-- 🤖 Passionate about **Artificial Intelligence and Machine Learning**
-- 🐍 Learning and developing applications using **Python**
-- 📊 Interested in **Data Science, Data Analytics and Machine Learning**
-- 🧠 Exploring **Deep Learning, NLP and Computer Vision**
+- 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning and Data Science**
+- 🐍 Currently strengthening my skills in **Python Programming**
+- 🧠 Exploring **Machine Learning, Deep Learning, NLP and Computer Vision**
+- 📊 Interested in **Data Analytics, Data Visualization and AI-driven insights**
 - ☁️ **ServiceNow Certified System Administrator (CSA)**
 - 🛠️ **ServiceNow Certified Application Developer (CAD)**
-- 💻 Interested in software development and intelligent applications
-- 🔍 Enjoy solving problems using technology and logical thinking
-- 🚀 Interested in developing **AI-powered solutions for real-world problems**
-- 📚 Continuously learning new technologies and improving my technical skills
-- 🎯 Preparing myself for exciting opportunities in **AI/ML and Software Development**
-- 💡 I enjoy learning, experimenting, building projects and turning ideas into practical solutions
+- 💻 Interested in **Software Development, Automation and Intelligent Systems**
+- 🧩 Strong interest in **Problem Solving and Logical Thinking**
+- 🚀 Interested in developing **AI-powered solutions for real-world challenges**
+- 📚 Continuously learning new technologies through hands-on practice
+- 🎯 Currently focusing on **Python, AI/ML, Data Science and Software Development**
+- 💡 Enjoy turning ideas into practical and useful technology solutions
 
 ---
 
@@ -50,20 +51,16 @@
 ### 🤖 AI & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 </p>
 
 ### 📊 Data Science & Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
@@ -89,7 +86,7 @@
 - ServiceNow Studio
 - Scripting
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Development Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,vscode,jupyter" />
@@ -99,152 +96,133 @@
 
 ## 🏆 Certifications
 
-### ☁️ ServiceNow
+<p align="center">
 
-- 🏅 **ServiceNow Certified System Administrator (CSA)**
-- 🏅 **ServiceNow Certified Application Developer (CAD)**
+<img src="https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-032D42?style=for-the-badge&logo=servicenow&logoColor=white" />
 
----
+<img src="https://img.shields.io/badge/ServiceNow-Certified%20Application%20Developer-032D42?style=for-the-badge&logo=servicenow&logoColor=white" />
 
-# 🚀 Featured Projects
-
-## 🧠 AI-Powered AutoML vs Expert-Tuned ML Pipelines
-
-A comparative AI/ML project that evaluates **Automated Machine Learning (AutoML)** approaches against manually designed machine learning pipelines across multiple healthcare datasets.
-
-### ✨ Key Features
-
-- 🤖 Automated Machine Learning
-- 🧠 Automated model selection
-- ⚙️ Hyperparameter optimization
-- 📊 Healthcare dataset analysis
-- 🔍 Expert-tuned ML pipelines
-- 📈 Model performance comparison
-- 🩺 Healthcare prediction
-- 📊 Accuracy, Precision, Recall and F1 Score analysis
-
-### 🔧 Technologies
-
-`Python` `Scikit-learn` `TPOT` `Auto-sklearn` `H2O AutoML` `Pandas` `NumPy` `Matplotlib`
+</p>
 
 ---
 
-## 🪖 AI-Enabled Adaptive Noise Cancellation for Defence Communication
+## 💼 Professional Interests
 
-An AI/ML-based adaptive noise cancellation concept designed to improve speech intelligibility in challenging defence environments containing stationary, non-stationary and impulsive noise.
+<p align="center">
 
-### ✨ Key Features
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Science-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-7E22CE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Analytics-0F766E?style=for-the-badge" />
 
-- 🎙️ Real-time noise suppression
-- 🤖 AI/ML-based adaptive processing
-- 🔊 Stationary noise reduction
-- ⚡ Non-stationary noise handling
-- 💥 Impulsive noise suppression
-- 🗣️ Speech intelligibility preservation
-- 💻 Embedded hardware implementation
-- 🚀 Real-time processing
-
-### 🔧 Technologies
-
-`Python` `AI/ML` `Signal Processing` `Adaptive Filtering` `Embedded Systems`
+</p>
 
 ---
 
-## 🪖 Soldier-to-Soldier Helmet Communication System
+## 📚 Currently Learning
 
-A smart communication system designed to enable reliable voice communication between soldiers using a distributed communication network integrated with a helmet.
-
-### ✨ Key Features
-
-- 🎧 Soldier-to-soldier voice communication
-- 📡 Distributed conformal antenna concept
-- 🔗 Multi-hop communication
-- 🤖 Automatic route selection
-- 🔊 Improved communication in noisy environments
-- 🪖 Helmet-integrated communication
-- 📶 Reduced dependency on soldier orientation
-- 🚨 Designed for defence communication scenarios
-
-### 🔧 Technologies
-
-`Embedded Systems` `Wireless Communication` `AI/ML` `Signal Processing` `IoT`
+- 🐍 Advanced Python
+- 🤖 Machine Learning Algorithms
+- 🧠 Deep Learning
+- 📊 Data Science
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- 📈 Data Analytics
+- ✨ Generative AI
+- ☁️ Cloud Technologies
+- 💻 Software Development
+- 🧩 Data Structures & Algorithms
+- 🔍 Problem Solving
 
 ---
 
-## 🔍 Deepfake Detection & Synthetic Media Forensics
+## 💡 What I Like Building
 
-An AI-powered system designed to analyze digital media and identify potentially manipulated or synthetic content.
-
-### ✨ Key Features
-
-- 🎥 Deepfake detection
-- 🤖 Deep Learning-based classification
-- 👁️ Facial analysis
-- 🧠 Feature extraction
-- 🔍 Synthetic media analysis
-- 📊 Confidence-based prediction
-- ⚡ Automated media analysis
-
-### 🔧 Technologies
-
-`Python` `PyTorch` `OpenCV` `ONNX` `Deep Learning` `Computer Vision`
+- 🤖 AI-powered applications
+- 🧠 Machine Learning solutions
+- 📊 Data-driven applications
+- 👁️ Computer Vision systems
+- 💬 NLP-based applications
+- ⚙️ Intelligent automation systems
+- ☁️ Cloud-enabled applications
+- 🌱 Technology solutions for real-world problems
 
 ---
 
-## 🌱 AI Smart Agriculture System
+## 🎯 Career Goals
 
-An AI-powered agriculture solution designed to support farmers through intelligent crop monitoring and analysis.
+My goal is to become a skilled **AI/ML Engineer** and build intelligent applications that solve meaningful real-world problems.
 
-### ✨ Key Features
+I am working towards developing strong expertise in:
 
-- 🌱 Crop monitoring
-- 📷 Image-based crop analysis
-- 🦠 Crop disease detection
-- 🤖 AI-based prediction
-- 💧 Smart agriculture monitoring
-- 📊 Data-driven insights
-- 🌾 Intelligent farming support
-
-### 🔧 Technologies
-
-`Python` `Machine Learning` `Computer Vision` `IoT` `OpenCV`
-
----
-
-## 👁️ Smart Blind Assistance System
-
-An intelligent assistance system designed to help visually impaired individuals identify surrounding objects and receive useful alerts.
-
-### ✨ Key Features
-
-- 👁️ Object detection
-- 🔊 Audio-based alerts
-- 🤖 AI-powered environment recognition
-- 🚶 Obstacle detection
-- 📷 Real-time camera processing
-- 📱 Assistive technology
-
-### 🔧 Technologies
-
-`Python` `Computer Vision` `YOLO` `OpenCV` `AI/ML`
+- Artificial Intelligence
+- Machine Learning
+- Python
+- Data Science
+- Deep Learning
+- Generative AI
+- Computer Vision
+- Natural Language Processing
+- Software Development
+- Cloud Technologies
 
 ---
 
-# 🧪 Areas I'm Exploring
+## 🌱 Beyond Coding
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Computer Vision
-        ↓
-Natural Language Processing
-        ↓
-Data Science
-        ↓
-Generative AI
-        ↓
-AI-Powered Applications
+- 📚 Enjoy reading motivational and self-development content
+- 💡 Like exploring new technologies and ideas
+- 🧠 Enjoy learning through practical implementation
+- 🔍 Interested in understanding how AI can solve real-world problems
+- 🚀 Always looking for opportunities to learn, experiment and grow
+- 🎯 Focused on continuously improving my technical and problem-solving skills
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/keerthii-thokala-17a994308/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💡 Developer Philosophy
+
+> "Learn continuously. Build intelligently. Solve real-world problems with technology."
+
+---
+
+<p align="center">
+
+### 🚀 Keep Learning • Keep Building • Keep Growing 🚀
+
+</p>
